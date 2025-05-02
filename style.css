@@ -1,0 +1,238 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(./the_netflix_login_background__canada__2024___by_logofeveryt_dh0w8qv-fullview.jpg);
+    background-size: cover;
+}
+
+.main {
+
+    background-image: linear-gradient(black, rgba(0, 0, 0, 0.5), black);
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 150px;
+}
+
+nav img {
+    width: 15%;
+    height: 10%;
+}
+
+.btn2 {
+    border: none;
+    background-color: brown;
+    color: white;
+    border-radius: 8px;
+    padding: 7px 15px;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.btn1 {
+    background-color: rgba(0, 0, 0, 0.2);
+    border: 1px solid;
+    border-radius: 5px;
+    margin-right: 10PX;
+}
+
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    color: aliceblue;
+}
+
+.hero-txt {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.hero-txt h1 {
+    font-style: normal;
+    font-size: 60px;
+    font-weight: 1000;
+}
+
+.hero-txt h3 {
+    margin-top: 20px;
+}
+
+.one {
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    margin-top: 20px;
+}
+
+.one input {
+    /* width: 100%; */
+    padding: 25px 100px;
+    border: 0.5px solid rgba(207, 204, 204, 0.4);
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+button {
+    border: none;
+    background-color: red;
+    color: white;
+    border-radius: 4px;
+    padding: 10px 40px;
+    margin: 7px;
+}
+
+.ansh {
+    /* background-image: linear-gradient(black,0,0,0,0.5,black);
+    background-size: cover; */
+    background-color: black;
+    height: 50vh;
+}
+
+.main1 {
+
+    color: white;
+    margin-left: 70px;
+    font-size: 15px;
+    font-weight: 1000;
+}
+
+.main2 {
+    display: flex;
+    /* margin-top: 20px;
+    border-radius: 10ox; */
+}
+
+.part1 {
+
+    background-image: url(./WhatsApp-Image-2025-02-11-at-16.26.22.jpeg);
+    background-size: cover;
+    width: 13%;
+    height: 35vh;
+    margin-left: 100px;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding-top: 200px;
+    color: rgb(0, 0, 0);
+    padding-left: 200px;
+    font-size: 64px;
+    font-weight: 600;
+    border: 5px solid rgb(255, 0, 0);
+    -webkit-text-stroke: 2px rgb(255, 255, 255);
+}
+
+
+.part2 {
+    background-image: url(./MV5BZjI2NGQxMGMtYzQ5Mi00NTBjLWJhYzktMjE2ZDkxOTU3YWZjXkEyXkFqcGc@._V1_.jpg);
+    background-size: cover;
+    width: 13%;
+    margin-left: 35px;
+    height: 35vh;
+    margin-top: 20px;
+    border-radius: 10px;
+
+}
+
+.part3 {
+    background-image: url(./dragon-et00430623-1737717074.avif);
+    background-size: cover;
+    width: 13%;
+    margin-left: 35px;
+    height: 35vh;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.part4 {
+    background-image: url(./You-Season-4-Part-2.webp);
+    background-size: cover;
+    width: 13%;
+    margin-left: 35px;
+    height: 35vh;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.part5 {
+    background-image: url(./court-a-state-vs-nobody-review-145250512-3x4.webp);
+    background-size: cover;
+    width: 13%;
+    margin-left: 35px;
+    height: 35vh;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.main3 {
+    color: white;
+    /* height: 40vh; */
+    /* margin-left: 70px;
+   margin-top: 20px; */
+    background-color: black;
+    padding-top: 20px;
+    padding-left: 70px;
+    font-size: 1000;
+}
+
+.main4 {
+    background-color: black;
+    
+}
+
+.b1 {
+    color: white;
+    /* display: flex;
+    text-align: center;
+    justify-content: center; */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+.m2 {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    padding: 0px 100px;
+    /* background-color: antiquewhite; */
+/* }
+.m2 div img {
+    border-radius: 15px;
+    width: 90%;
+}
+
+.i1,.i2 ,.i3, .i4, .i5, .i6{
+    position: relative;
+}
+
+.one {
+    position: absolute;
+    bottom: 20px;
+    left: -20px;
+    color: rgb(0, 0, 0);
+    font-size: 92px;
+    -webkit-text-stroke:  2px white;
+} */ 
